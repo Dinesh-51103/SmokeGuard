@@ -15,3 +15,9 @@ This system leverages advanced artificial intelligence techniques to identify sm
 
   - **User Interface:** Gradio
 
+## Demo:
+Check out the live demo video below to see the project in action:
+
+
+https://github.com/user-attachments/assets/61275fb8-31dc-4b7a-a3fe-87eed8239a46
+
